@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "3.0.0",
-    "description": "Conflictura modded server launcher",
+    "name": "EcarlateRP",
+    "preductname": "EcarlateRP Launcher",
+    "version": "1.0.0",
+    "description": "EcarlateRP Launcher",
     "main": "src/app.js",
-    "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
-    "settings": "http://localhost/panel",
+    "author": "Riptiaz/Boulldogo/Vexato/Luuxis/Lukas",
+    "settings": "https://launcherapi.ecarlaterp.com/",
     "engines": {
         "node": "20.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/SecretAccount981/lch.git"
     }
 }
