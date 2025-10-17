@@ -1,7 +1,7 @@
 {
     "name": "ecarlaterp",
     "preductname": "EcarlateRP Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "EcarlateRP Launcher",
     "main": "src/app.js",
     "author": "Riptiaz/Boulldogo/Vexato/Luuxis/Lukas",
